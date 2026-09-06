@@ -7,7 +7,7 @@
 | 目录 | 内容 | 状态 |
 | --- | --- | --- |
 | [linux](./linux) | Linux 基础概念、常用命令、用户权限、网络、进程和文件管理 | 学习中 |
-| `redis` | Redis 数据类型、常用命令、持久化、缓存和 Java 集成 | 待整理 |
+| [redis](./redis) | Redis 数据类型、常用命令、持久化、缓存、Java 集成和实战 | 已整理 |
 | `javaweb` | Servlet、请求与响应、会话、过滤器、监听器和项目实践 | 待整理 |
 | `java` | Java 基础语法、面向对象、集合、异常、IO 和并发 | 计划中 |
 | `spring` | Spring、Spring MVC、Spring Boot 和常用开发模式 | 计划中 |
@@ -65,5 +65,15 @@ java-study/
 git clone https://github.com/huangjiacheng0226/java-study.git
 cd java-study
 ```
+
+## Redis 相关资料
+
+通过网盘分享的文件：redis
+
+链接：[https://pan.baidu.com/s/1A9lupK-A9JuSGyouZ1zISQ?pwd=bsxq](https://pan.baidu.com/s/1A9lupK-A9JuSGyouZ1zISQ?pwd=bsxq)
+
+提取码：bsxq
+
+--来自百度网盘超级会员v3的分享
 
 本仓库会随着学习过程持续补充和修订。
