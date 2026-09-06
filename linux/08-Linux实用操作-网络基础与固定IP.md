@@ -29,6 +29,19 @@ sudo hostnamectl set-hostname web01  # 修改主机名
 
 系统先查询 hosts，再向 DNS 查询。
 
+```mermaid
+flowchart TD
+    A[访问 www.baidu.com] --> B[查询本机 hosts 文件]
+    B --> C{是否存在对应的 IP 记录}
+    C -->|是| G[使用得到的 IP 地址连接网站]
+    C -->|否| D[向 DNS 服务器查询域名]
+    D --> E{DNS 是否返回 IP 地址}
+    E -->|是| G
+    E -->|否| F[域名解析失败，网站无法打开]
+```
+
+这个过程说明 hosts 的优先级高于 DNS。若 hosts 中存在错误映射，即使 DNS 记录正确，系统也可能访问到错误的地址。
+
 | 系统 | hosts 文件 |
 |---|---|
 | Windows | `C:\Windows\System32\drivers\etc\hosts` |

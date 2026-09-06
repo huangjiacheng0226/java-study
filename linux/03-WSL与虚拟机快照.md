@@ -10,6 +10,23 @@ WSL（Windows Subsystem for Linux）是 Windows 提供的 Linux 子系统。它�
 
 WSL 可以理解为直接使用 Windows 主机硬件资源的 Linux 环境；完整虚拟机则会额外模拟 CPU、内存、磁盘、显示器等硬件。
 
+```mermaid
+flowchart TB
+    HW[真实 CPU、内存、磁盘和网卡]
+
+    subgraph WIN[Windows 主机]
+        WSL[WSL 中的 Linux 环境]
+        VMOS[虚拟机中的 Linux 操作系统]
+        VHW[虚拟 CPU、内存、磁盘和网卡]
+        VMOS -->|访问| VHW
+    end
+
+    WSL -->|通过 Windows 与 WSL 机制使用| HW
+    VHW -->|由虚拟机软件映射到| HW
+```
+
+这张图表示资源使用关系：WSL 与 Windows 的集成更直接；虚拟机先使用虚拟硬件，再由虚拟机软件把操作映射到真实硬件。
+
 ### 1.1 WSL 与 VMware 虚拟机怎么选
 
 | 场景 | 更适合的选择 | 原因 |
