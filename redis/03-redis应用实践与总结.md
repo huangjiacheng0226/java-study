@@ -112,7 +112,9 @@ public class RedisStringService {
 #### 3.2.2 自定义序列化
 
 serializer = 序列化器
+
 • 序列化 serialize：Java 对象 → 字节/字符串，存入 Redis、网络传输、文件
+
 • 反序列化 deserialize：字节/字符串 → 恢复成 Java 对象
 
 RedisTemplate 有4处要配置序列化器：
