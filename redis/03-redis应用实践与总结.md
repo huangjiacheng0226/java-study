@@ -111,6 +111,17 @@ public class RedisStringService {
 
 #### 3.2.2 自定义序列化
 
+serializer = 序列化器
+• 序列化 serialize：Java 对象 → 字节/字符串，存入 Redis、网络传输、文件
+• 反序列化 deserialize：字节/字符串 → 恢复成 Java 对象
+
+RedisTemplate 有4处要配置序列化器：
+1. keySerializer：普通key
+2. valueSerializer：普通value
+3. hashKeySerializer：hash 的 field
+4. hashValueSerializer：hash 的 value
+
+
 Redis 最终保存的是字节数据。序列化器决定 Java 对象如何转换为字节，以及读取时如何还原。默认配置可能使用 JDK 序列化，数据可读性较差，项目中常改为 JSON 序列化。
 
 ```java
