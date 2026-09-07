@@ -42,16 +42,27 @@ public class JedisQuickStart {
 在 Web 应用中，多个请求可能同时访问 Redis。每次请求都新建连接会产生较大开销，因此通常使用 `JedisPool` 复用连接。
 
 ```java
-import redis.clients.jedis.Jedis;
-import redis.clients.jedis.JedisPool;
+package com.heima.jedis.util;
 
-public class JedisPoolExample {
-    public static void main(String[] args) {
-        try (JedisPool pool = new JedisPool("localhost", 6379);
-             Jedis jedis = pool.getResource()) {
-            jedis.setex("login:code:1001", 60, "938214");
-            System.out.println(jedis.get("login:code:1001"));
-        }
+import redis.clients.jedis.*;
+
+public class JedisConnectionFactory {
+
+    private static JedisPool jedisPool;
+
+    static {
+        // 配置连接池
+        JedisPoolConfig poolConfig = new JedisPoolConfig();
+        poolConfig.setMaxTotal(8);
+        poolConfig.setMaxIdle(8);
+        poolConfig.setMinIdle(0);
+        poolConfig.setMaxWaitMillis(1000);
+        // 创建连接池对象，参数：连接池配置、服务端ip、服务端端口、超时时间、密码
+        jedisPool = new JedisPool(poolConfig, "192.168.150.101", 6379, 1000, "123321");
+    }
+
+    public static Jedis getJedis(){
+        return jedisPool.getResource();
     }
 }
 ```
