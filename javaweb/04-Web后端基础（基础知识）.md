@@ -44,9 +44,45 @@ public class DeptController {
 
 ### 2.1 请求和响应组成
 
-请求由请求行、请求头、空行和请求体组成；响应由状态行、响应头、空行和响应体组成。
+报请求文 = 请求行 + 请求头 + 空行 + 请求体
+~~~text
+POST /api/user/login HTTP/1.1           ← 请求行
+Host: www.example.com                   ← 请求头
+Content-Type: application/json
+Content-Length: 56
+                                        ← 空行（必须）
+{"username":"admin","password":"123456"} ← 请求体（POST 独有）
+~~~
 
-### 2.2 方法与状态码
+响应报文 = 响应行 + 响应头 + 空行 + 响应体
+~~~text
+HTTP/1.1 200 OK                         ← 响应行
+Content-Type: application/json          ← 响应头
+Content-Length: 85
+                                        ← 空行（必须）
+{"code":200,"msg":"登录成功","token":"xxx"} ← 响应体
+~~~
+
+### 2.2
+- 基于TCP协议: 面向连接，安全
+TCP是一种面向连接的(建立连接之前是需要经过三次握手)、可靠的、基于字节流的传输层通信协议，在数据传输方面更安全
+
+- 基于请求-响应模型:   一次请求对应一次响应（先请求后响应）
+请求和响应是一一对应关系，没有请求，就没有响应
+
+- HTTP协议是无状态协议:  对于数据没有记忆能力。每次请求-响应都是独立的
+无状态指的是客户端发送HTTP请求给服务端之后，服务端根据请求响应数据，响应完后，不会记录任何信息。
+  - 缺点:  多次请求间不能共享数据
+  - 优点:  速度快
+
+- 请求之间无法共享数据会引发的问题：
+  - 如：京东购物。加入购物车和去购物车结算是两次请求
+  - 由于HTTP协议的无状态特性，加入购物车请求响应结束后，并未记录加入购物车是何商品
+  - 发起去购物车结算的请求后，因为无法获取哪些商品加入了购物车，会导致此次请求无法正确展示数据
+
+- 具体使用的时候，我们发现京东是可以正常展示数据的，原因是Java早已考虑到这个问题，并提出了使用会话技术(Cookie、Session)来解决这个问题。
+
+### 2.3 方法与状态码
 
 | 方法 | 语义 | 参数位置 |
 |---|---|---|
@@ -57,7 +93,7 @@ public class DeptController {
 
 状态码：200 成功、201 创建、204 无内容、400 参数错误、401 未认证、403 无权限、404 不存在、500 服务端异常。JSON 请求应使用 Content-Type: application/json；文件上传使用 multipart/form-data。统一响应对象通常包含 code、message、data，避免每个接口格式不同。
 
-### 2.3 参数接收
+### 2.4 参数接收
 
 ~~~java
 @GetMapping("/search")
@@ -95,6 +131,8 @@ public Result<Void> save(@Valid @RequestBody Dept dept) {
 ~~~
 
 校验失败时统一处理 MethodArgumentNotValidException，返回字段级错误信息。
+
+
 
 ## 3. 分层解耦
 
