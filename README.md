@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | [linux](./linux) | Linux 基础概念、常用命令、用户权限、网络、进程和文件管理 | 学习中 |
 | [redis](./redis) | Redis 数据类型、常用命令、持久化、缓存、Java 集成和实战 | 已整理 |
-| `javaweb` | Servlet、请求与响应、会话、过滤器、监听器和项目实践 | 待整理 |
+| [javaweb](./javaweb) | HTML/CSS、JavaScript/Vue/Ajax、Maven、HTTP、Spring Boot、数据库、MyBatis 及员工管理实战 | 已整理 |
 | `java` | Java 基础语法、面向对象、集合、异常、IO 和并发 | 计划中 |
 | `spring` | Spring、Spring MVC、Spring Boot 和常用开发模式 | 计划中 |
 | `mysql` | SQL、表设计、索引、事务和性能优化 | 计划中 |
@@ -53,7 +53,7 @@ java-study/
 - [x] Linux 基础笔记
 - [ ] Java 基础
 - [ ] MySQL
-- [ ] JavaWeb
+- [x] JavaWeb
 - [ ] Redis
 - [ ] Spring / Spring Boot
 
@@ -65,6 +65,8 @@ java-study/
 git clone https://github.com/huangjiacheng0226/java-study.git
 cd java-study
 ```
+
+JavaWeb 笔记按课程顺序拆分为十篇，直接进入 [`javaweb`](./javaweb) 目录阅读即可。
 
 ## Redis 相关资料
 
