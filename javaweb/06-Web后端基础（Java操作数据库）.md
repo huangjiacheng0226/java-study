@@ -1,1 +1,90 @@
-IyAwNiBXZWIg5ZCO56uv5Z+656GA77yISmF2YSDmk43kvZzmlbDmja7lupPvvIkKCiMjIDEuIEpEQkMKCiMjIyAxLjEgSkRCQyDmmK/ku4DkuYgKCkpEQkMg5pivIEphdmEg5pON5L2c5YWz57O75Z6L5pWw5o2u5bqT55qE5qCH5YeGIEFQSeOAguaVsOaNruW6k+WOguWVhuaPkOS+m+mpseWKqOWunueOsO+8jOeoi+W6j+mAmui/h+e7n+S4gOaOpeWPo+aJp+ihjCBTUUzjgIIKCiMjIyAxLjIg5p+l6K+i56S65L6LCgp+fn5qYXZhClN0cmluZyBzcWwgPSAiU0VMRUNUIGlkLCB1c2VybmFtZSBGUk9NIHVzZXIgV0hFUkUgdXNlcm5hbWUgPSA/IjsKdHJ5IChDb25uZWN0aW9uIGNvbm4gPSBkYXRhU291cmNlLmdldENvbm5lY3Rpb24oKTsKICAgICBQcmVwYXJlZFN0YXRlbWVudCBzdG10ID0gY29ubi5wcmVwYXJlU3RhdGVtZW50KHNxbCkpIHsKICAgIHN0bXQuc2V0U3RyaW5nKDEsIHVzZXJuYW1lKTsgLy8g57uR5a6a5Y+C5pWw77yM6YG/5YWNIFNRTCDms6jlhaUKCiAgICB0cnkgKFJlc3VsdFNldCBycyA9IHN0bXQuZXhlY3V0ZVF1ZXJ5KCkpIHsKICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihycy5nZXRMb25nKCJpZCIpKTsKICAgICAgICB9CiAgICB9Cn0Kfn5+CgpSZXN1bHRTZXQg55qEIG5leHQoKSDnp7vliqjliLDkuIvkuIDooYzvvIxnZXRYeHgg5oyJ5YiX5ZCN5oiW5YiX5Y+36K+75Y+W5pWw5o2u44CCdHJ5LXdpdGgtcmVzb3VyY2VzIOiHquWKqOWFs+mXrei1hOa6kOOAggoKZXhlY3V0ZVVwZGF0ZSgpIOeUqOS6jiBJTlNFUlTjgIFVUERBVEXjgIFERUxFVEXvvIzlubbov5Tlm57lj5flvbHlk43ooYzmlbDjgILlpJrmnaHor63lj6XlupTkvb/nlKggQ29ubmVjdGlvbiDnmoTkuovliqHmjqfliLbvvIzmiJDlip8gY29tbWl077yM5aSx6LSlIHJvbGxiYWNr44CC6L+e5o6l5rGg6aKE5YWI5Yib5bu65bm25aSN55So6L+e5o6l77yM5YeP5bCR6aKR57mB5bu656uL6L+e5o6l55qE5byA6ZSA77ybU3ByaW5nIEJvb3Qg6aG555uu6YCa5bi46Ieq5Yqo6YWN572uIEhpa2FyaUNQ77yM5LiN6KaB5Zyo5q+P5Liq6K+35rGC5Lit5omL5Yqo5Yib5bu6IERyaXZlck1hbmFnZXIg6L+e5o6l44CCCgojIyAyLiBNeUJhdGlzCgojIyMgMi4xIOazqOinoyBNYXBwZXIKCn5+fmphdmEKQE1hcHBlcgpwdWJsaWMgaW50ZXJmYWNlIERlcHRNYXBwZXIgewogICAgQFNlbGVjdCgiU0VMRUNUIGlkLCBuYW1lLCBjcmVhdGVfdGltZSwgdXBkYXRlX3RpbWUgRlJPTSBkZXB0IikKICAgIExpc3Q8RGVwdD4gZmluZEFsbCgpOwoKICAgIEBEZWxldGUoIkRFTEVURSBGUk9NIGRlcHQgV0hFUkUgaWQgPSAje2lkfSIpCiAgICB2b2lkIGRlbGV0ZUJ5SWQoTG9uZyBpZCk7Cn0Kfn5+CgojIyMgMi4yIFhNTCDliqjmgIEgU1FMCgp+fn54bWwKPHNlbGVjdCBpZD0iZmluZCIgcmVzdWx0VHlwZT0iY29tLmV4YW1wbGUuRGVwdCI+CiAgU0VMRUNUIGlkLCBuYW1lIEZST00gZGVwdAogIDx3aGVyZT4KICAgIDxpZiB0ZXN0PSJuYW1lICE9IG51bGwgYW5kIG5hbWUgIT0gJyciPgogICAgICBuYW1lIExJS0UgQ09OQ0FUKCclJywgI3tuYW1lfSwgJyUnKQogICAgPC9pZj4KICA8L3doZXJlPgogIE9SREVSIEJZIGlkIERFU0MKPC9zZWxlY3Q+Cn5+fgoK5LqV5Y+35Y2g5L2N56ym6KGo56S66aKE57yW6K+R5Y+C5pWw77yM5bqU5LyY5YWI5L2/55So77yb576O5YWD5Y2g5L2N56ym5piv5a2X56ym5Liy5pu/5o2i77yM5Y+q6IO955So5LqO5Y+v5L+h6KGo5ZCN5oiW5YiX5ZCN44CCCgojIyMgMi4zIEpEQkMg5ZKMIE15QmF0aXMg5a+55q+UCgp8IOmhueebriB8IEpEQkMgfCBNeUJhdGlzIHwKfC0tLXwtLS18LS0tfAp8IOagt+adv+S7o+eggSB8IOWkmiB8IOWwkSB8CnwgU1FMIOS9jee9riB8IEphdmEg5a2X56ym5LiyIHwg5rOo6Kej5oiWIFhNTCB8Cnwg57uT5p6c5pig5bCEIHwg5omL5YqoIHwg6Ieq5Yqo5pig5bCEIHwKfCDliqjmgIEgU1FMIHwg5omL5bel5ou85o6lIHwgaWbjgIF3aGVyZeOAgWZvcmVhY2ggfAoK5aSN5p2C5YWz6IGU5p+l6K+i5Y+v5L2/55SoIHJlc3VsdE1hcCDmmKDlsITlrZfmrrXlkozltYzlpZflr7nosaHvvJvlpJrkuKrlj4LmlbDlu7rorq7kvb/nlKggQFBhcmFtIOaYjuehruWQjeensOOAguWPr+WkjeeUqCBTUUwg54mH5q6155SoIHNxbCDlkowgaW5jbHVkZe+8jOS9huWKqOaAgeWIl+WQjeW/hemhu+eZveWQjeWNleagoemqjOOAggoKIyMgMy4g6YWN572u5ZKM5YiG6aG1Cgp+fn55YW1sCnNwcmluZzoKICBkYXRhc291cmNlOgogICAgdXJsOiBqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvdGxpYXM/c2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiAxMjM0NTYKbXliYXRpczoKICBjb25maWd1cmF0aW9uOgogICAgbWFwLXVuZGVyc2NvcmUtdG8tY2FtZWwtY2FzZTogdHJ1ZQp+fn4KCuWIhumhtemcgOimgSB0b3RhbCDlkozlvZPliY3pobUgcm93c+OAguWOn+Wni+WunueOsOS9v+eUqCBMSU1JVCBvZmZzZXQsIHBhZ2VTaXpl77yM5Lmf5Y+v5Lul5L2/55SoIFBhZ2VIZWxwZXIg566A5YyW44CCCgojIyA0LiDmnKznq6DmgLvnu5MKCi0gSkRCQyDluK7liqnnkIbop6Pov57mjqXjgIHpooTnvJbor5HjgIHnu5Pmnpzpm4blkozotYTmupDlhbPpl63jgIIKLSBNeUJhdGlzIOWHj+Wwkeagt+adv+S7o+egge+8jOS9hiBTUUwg5LuN6ZyA5byA5Y+R6ICF6K6+6K6h44CCCi0g5Y+C5pWw5LyY5YWI5L2/55So6aKE57yW6K+R57uR5a6a77yM5Yqo5oCBIFNRTCDkvb/nlKggd2hlcmXjgIFpZuOAgWZvcmVhY2jjgIIK
+# 06 Web 后端基础（Java 操作数据库）
+
+## 1. JDBC
+
+### 1.1 JDBC 是什么
+
+JDBC 是 Java 操作关系型数据库的标准 API。数据库厂商提供驱动实现，程序通过统一接口执行 SQL。
+
+### 1.2 查询示例
+
+~~~java
+String sql = "SELECT id, username FROM user WHERE username = ?";
+try (Connection conn = dataSource.getConnection();
+     PreparedStatement stmt = conn.prepareStatement(sql)) {
+    stmt.setString(1, username); // 绑定参数，避免 SQL 注入
+
+    try (ResultSet rs = stmt.executeQuery()) {
+        while (rs.next()) {
+            System.out.println(rs.getLong("id"));
+        }
+    }
+}
+~~~
+
+ResultSet 的 next() 移动到下一行，getXxx 按列名或列号读取数据。try-with-resources 自动关闭资源。
+
+executeUpdate() 用于 INSERT、UPDATE、DELETE，并返回受影响行数。多条语句应使用 Connection 的事务控制，成功 commit，失败 rollback。连接池预先创建并复用连接，减少频繁建立连接的开销；Spring Boot 项目通常自动配置 HikariCP，不要在每个请求中手动创建 DriverManager 连接。
+
+## 2. MyBatis
+
+### 2.1 注解 Mapper
+
+~~~java
+@Mapper
+public interface DeptMapper {
+    @Select("SELECT id, name, create_time, update_time FROM dept")
+    List<Dept> findAll();
+
+    @Delete("DELETE FROM dept WHERE id = #{id}")
+    void deleteById(Long id);
+}
+~~~
+
+### 2.2 XML 动态 SQL
+
+~~~xml
+<select id="find" resultType="com.example.Dept">
+  SELECT id, name FROM dept
+  <where>
+    <if test="name != null and name != ''">
+      name LIKE CONCAT('%', #{name}, '%')
+    </if>
+  </where>
+  ORDER BY id DESC
+</select>
+~~~
+
+井号占位符表示预编译参数，应优先使用；美元占位符是字符串替换，只能用于可信表名或列名。
+
+### 2.3 JDBC 和 MyBatis 对比
+
+| 项目 | JDBC | MyBatis |
+|---|---|---|
+| 样板代码 | 多 | 少 |
+| SQL 位置 | Java 字符串 | 注解或 XML |
+| 结果映射 | 手动 | 自动映射 |
+| 动态 SQL | 手工拼接 | if、where、foreach |
+
+复杂关联查询可使用 resultMap 映射字段和嵌套对象；多个参数建议使用 @Param 明确名称。可复用 SQL 片段用 sql 和 include，但动态列名必须白名单校验。
+
+## 3. 配置和分页
+
+~~~yaml
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/tlias?serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+~~~
+
+分页需要 total 和当前页 rows。原始实现使用 LIMIT offset, pageSize，也可以使用 PageHelper 简化。
+
+## 4. 本章总结
+
+- JDBC 帮助理解连接、预编译、结果集和资源关闭。
+- MyBatis 减少样板代码，但 SQL 仍需开发者设计。
+- 参数优先使用预编译绑定，动态 SQL 使用 where、if、foreach。

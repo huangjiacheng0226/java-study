@@ -1,1 +1,84 @@
-IyAxMCDlkI7nq68gV2ViIOWunuaImO+8iOWRmOW3peeuoeeQhu+8muS/ruaUueOAgeWIoOmZpOOAgeW8guW4uOWSjOe7n+iuoe+8iQoKIyMgMS4g5L+u5pS55LiO5Yig6ZmkCgojIyMgMS4xIOaOpeWPo+a1geeoiwoKfn5+dGV4dApHRVQgICAgL2VtcHMve2lkfSAgLT4g5p+l6K+i5Zue5pi+ClBVVCAgICAvZW1wcyAgICAgICAtPiDmj5DkuqTkv67mlLkKREVMRVRFIC9lbXBzL3tpZH0gIC0+IOWIoOmZpOWRmOW3pQp+fn4KCuS/ruaUuemAmuW4uOWIhuS4uuafpeivouWbnuaYvuWSjOaPkOS6pOabtOaWsOS4pOS4qumYtuauteOAguWIoOmZpOWJjeimgeiAg+iZkeW3peS9nOe7j+WOhuetieWFs+iBlOaVsOaNruWSjOmHjeWkjeivt+axguOAggoKIyMgMi4g5YWo5bGA5byC5bi45aSE55CGCgp+fn5qYXZhCkBSZXN0Q29udHJvbGxlckFkdmljZQpwdWJsaWMgY2xhc3MgR2xvYmFsRXhjZXB0aW9uSGFuZGxlciB7CiAgICBARXhjZXB0aW9uSGFuZGxlcihFeGNlcHRpb24uY2xhc3MpCiAgICBwdWJsaWMgUmVzdWx0PFZvaWQ+IGhhbmRsZShFeGNlcHRpb24gZXgpIHsKICAgICAgICBsb2cuZXJyb3IoIuezu+e7n+W8guW4uCIsIGV4KTsKICAgICAgICByZXR1cm4gUmVzdWx0LmVycm9yKCLmk43kvZzlpLHotKXvvIzor7fnqI3lkI7ph43or5UiKTsKICAgIH0KfQp+fn4KCuivpue7huWghuagiOWGmeWFpeaXpeW/l++8jOWTjeW6lOWPqui/lOWbnueos+WumumUmeivr+eggeWSjOeUqOaIt+WPr+eQhuino+eahOa2iOaBr++8jOS4jeimgeaatOmcsiBTUUzjgIHot6/lvoTlkozlr4bnoIHjgIIKCuWPguaVsOagoemqjOW8guW4uOi/lOWbniA0MDDvvIzorqTor4HlpLHotKXov5Tlm54gNDAx77yM5p2D6ZmQ5LiN6Laz6L+U5ZueIDQwM++8jOi1hOa6kOS4jeWtmOWcqOi/lOWbniA0MDTvvIzmnKrpooTmnJ/lvILluLjorrDlvZXml6Xlv5flubbov5Tlm54gNTAw44CC5LiN6KaB5a+55aSW5pq06Zyy5aCG5qCI44CCCgojIyAzLiDlkZjlt6Xnu5/orqEKCiMjIyAzLjEg6IGM5L2N57uf6K6hCgp+fn5zcWwKU0VMRUNUIGpvYiwgQ09VTlQoKikgQVMgdG90YWwKRlJPTSBlbXAKR1JPVVAgQlkgam9iCk9SREVSIEJZIHRvdGFsIERFU0M7Cn5+fgoKIyMjIDMuMiDmgKfliKvnu5/orqEKCn5+fnNxbApTRUxFQ1QgZ2VuZGVyLCBDT1VOVCgqKSBBUyB0b3RhbApGUk9NIGVtcApHUk9VUCBCWSBnZW5kZXI7Cn5+fgoK5ZCO56uv5oqK6IGa5ZCI57uT5p6c6L2s5o2i5oiQ5Zu+6KGo5pWw57uE77yM5YmN56uv5L2/55SoIEVDaGFydHMg562J57uE5Lu25Y+v6KeG5YyW44CCCgrnu5/orqHmjqXlj6Plj6/mjInml6XmnJ/lkozpg6jpl6jlop7liqDov4fmu6TmnaHku7bvvJvlpKfmlbDmja7ph4/ml7bogIPomZHntKLlvJXjgIHnvJPlrZjmiJblvILmraXmsYfmgLvvvIzpgb/lhY3mr4/mrKHor7fmsYLmiavmj4/mlbTlvKDlkZjlt6XooajjgIIKCiMjIDQuIOaXpeW/l+OAgeiupOivgeWSjOivt+axguaLpuaIqgoKIyMjIDQuMSBTZXNzaW9uIOS4jiBKV1QKCnwg5pa55qGIIHwg54q25oCB5L2N572uIHwg5LyY54K5IHwg5rOo5oSP54K5IHwKfC0tLXwtLS18LS0tfC0tLXwKfCBTZXNzaW9uIHwg5pyN5Yqh56uvIHwg5piT5pKk6ZSA44CB5oiQ54afIHwg6ZuG576k6ZyA5YWx5Lqr5Lya6K+dIHwKfCBKV1QgfCDlrqLmiLfnq6/ku6TniYwgfCDml6DnirbmgIHvvIzpgILlkIjliIbnprvmnrbmnoQgfCDmkqTplIDlkozms4TpnLLlpITnkIblpI3mnYIgfAoKSldUIOeahCBQYXlsb2FkIOS4jeaYr+WKoOWvhuWGheWuue+8jOS4jeiDveS/neWtmOWvhueggeOAguetvuWQjeS/neivgeWujOaVtOaAp++8jOS4jeS/neivgeS/neWvhuOAggoKSldUIOi/h+acn+aXtumXtOW6lOi+g+efre+8jOWIt+aWsOS7pOeJjOimgeWNleeLrOeuoeeQhu+8m+etvuWQjeWvhumSpeaUvuWcqOeOr+Wig+WPmOmHj+aIluWvhumSpeeuoeeQhuezu+e7n+OAguWJjeerr+WtmOWCqOS7pOeJjOaXtuimgeivhOS8sCBYU1Mg5ZKMIENTUkYg6aOO6Zmp44CCCgojIyMgNC4yIEZpbHRlciDkuI4gSW50ZXJjZXB0b3IKCn5+fm1lcm1haWQKZmxvd2NoYXJ0IExSCiAgICBBW+ivt+axgl0gLS0+IEJbRmlsdGVyXQogICAgQiAtLT4gQ1tJbnRlcmNlcHRvcl0KICAgIEMgLS0+IERbQ29udHJvbGxlcl0KICAgIEQgLS0+IEVb5ZON5bqUXQp+fn4KCkZpbHRlciDlsZ7kuo4gU2VydmxldCDop4TojIPvvIxJbnRlcmNlcHRvciDlsZ7kuo4gU3ByaW5nIE1WQ+OAgueZu+W9leaOpeWPo+OAgemdmeaAgei1hOa6kOetieeZveWQjeWNleimgeaYjuehrumFjee9ruOAggoKIyMgNS4g5pys56ug5oC757uTCgotIOS/ruaUueeUseWbnuaYvuWSjOaPkOS6pOabtOaWsOe7hOaIkO+8jOWIoOmZpOimgeiAg+iZkeWFs+iBlOaVsOaNruOAggotIOWFqOWxgOW8guW4uOWkhOeQhue7n+S4gOWTjeW6lOW5tumakOiXj+WGhemDqOS/oeaBr+OAggotIOe7n+iuoeeUsSBTUUwg6IGa5ZCI5a6M5oiQ77yM5pel5b+X5ZKM6K6k6K+B6LSf6LSj57O757uf5Y+v57u05oqk5oCn44CCCg==
+# 10 后端 Web 实战（员工管理：修改、删除、异常和统计）
+
+## 1. 修改与删除
+
+### 1.1 接口流程
+
+~~~text
+GET    /emps/{id}  -> 查询回显
+PUT    /emps       -> 提交修改
+DELETE /emps/{id}  -> 删除员工
+~~~
+
+修改通常分为查询回显和提交更新两个阶段。删除前要考虑工作经历等关联数据和重复请求。
+
+## 2. 全局异常处理
+
+~~~java
+@RestControllerAdvice
+public class GlobalExceptionHandler {
+    @ExceptionHandler(Exception.class)
+    public Result<Void> handle(Exception ex) {
+        log.error("系统异常", ex);
+        return Result.error("操作失败，请稍后重试");
+    }
+}
+~~~
+
+详细堆栈写入日志，响应只返回稳定错误码和用户可理解的消息，不要暴露 SQL、路径和密码。
+
+参数校验异常返回 400，认证失败返回 401，权限不足返回 403，资源不存在返回 404，未预期异常记录日志并返回 500。不要对外暴露堆栈。
+
+## 3. 员工统计
+
+### 3.1 职位统计
+
+~~~sql
+SELECT job, COUNT(*) AS total
+FROM emp
+GROUP BY job
+ORDER BY total DESC;
+~~~
+
+### 3.2 性别统计
+
+~~~sql
+SELECT gender, COUNT(*) AS total
+FROM emp
+GROUP BY gender;
+~~~
+
+后端把聚合结果转换成图表数组，前端使用 ECharts 等组件可视化。
+
+统计接口可按日期和部门增加过滤条件；大数据量时考虑索引、缓存或异步汇总，避免每次请求扫描整张员工表。
+
+## 4. 日志、认证和请求拦截
+
+### 4.1 Session 与 JWT
+
+| 方案 | 状态位置 | 优点 | 注意点 |
+|---|---|---|---|
+| Session | 服务端 | 易撤销、成熟 | 集群需共享会话 |
+| JWT | 客户端令牌 | 无状态，适合分离架构 | 撤销和泄露处理复杂 |
+
+JWT 的 Payload 不是加密内容，不能保存密码。签名保证完整性，不保证保密。
+
+JWT 过期时间应较短，刷新令牌要单独管理；签名密钥放在环境变量或密钥管理系统。前端存储令牌时要评估 XSS 和 CSRF 风险。
+
+### 4.2 Filter 与 Interceptor
+
+~~~mermaid
+flowchart LR
+    A[请求] --> B[Filter]
+    B --> C[Interceptor]
+    C --> D[Controller]
+    D --> E[响应]
+~~~
+
+Filter 属于 Servlet 规范，Interceptor 属于 Spring MVC。登录接口、静态资源等白名单要明确配置。
+
+## 5. 本章总结
+
+- 修改由回显和提交更新组成，删除要考虑关联数据。
+- 全局异常处理统一响应并隐藏内部信息。
+- 统计由 SQL 聚合完成，日志和认证负责系统可维护性。

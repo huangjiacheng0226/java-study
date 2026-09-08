@@ -1,1 +1,79 @@
-IyAwOCDlkI7nq68gV2ViIOWunuaImO+8iOWRmOW3peeuoeeQhu+8muWkmuihqOS4juWIhumhte+8iQoKIyMgMS4g5aSa6KGo5YWz57O7Cgp8IOWFs+ezuyB8IOekuuS+iyB8IOWunueOsCB8CnwtLS18LS0tfC0tLXwKfCDkuIDlr7nlpJogfCDpg6jpl6jkuI7lkZjlt6UgfCDlkZjlt6Xooajkv53lrZggZGVwdF9pZCB8Cnwg5LiA5a+55LiAIHwg5ZGY5bel5LiO5omp5bGV5L+h5oGvIHwg5ZSv5LiA6ZSu5YWz6IGUIHwKfCDlpJrlr7nlpJogfCDlkZjlt6XkuI7pobnnm64gfCDkuK3pl7Tooajkv53lrZjkuKTovrnkuLvplK4gfAoK6aG555uu5Lit5bi45L2/55So6YC76L6R5aSW6ZSu77yM55Sx5bqU55So5bGC57u05oqk5YWz57O777yM5YeP5bCR5pWw5o2u5bqT5by657qm5p2f5a+56L+B56e755qE5b2x5ZON44CCCgojIyAyLiDlpJrooajmn6Xor6IKCui/nuaOpeWRmOW3peWSjOW3peS9nOe7j+WOhuaXtu+8jOS4gOWQjeWRmOW3peWPr+iDveS6p+eUn+WkmuihjOOAguWIl+ihqOafpeivouW6lOWPqui/nuaOpemcgOimgeWxleekuueahOihqO+8jOivpuaDheafpeivouWGjeiBmuWQiOe7j+WOhu+8jOaIluS9v+eUqCByZXN1bHRNYXAg55qEIGNvbGxlY3Rpb24g5pig5bCE44CCCgojIyMgMi4xIOWRmOW3peWSjOmDqOmXqAoKfn5+c3FsClNFTEVDVCBlLmlkLCBlLm5hbWUsIGQubmFtZSBBUyBkZXB0X25hbWUKRlJPTSBlbXAgZQpMRUZUIEpPSU4gZGVwdCBkIE9OIGUuZGVwdF9pZCA9IGQuaWQ7Cn5+fgoKIyMjIDIuMiDmnaHku7bliIbpobUgTWFwcGVyCgp+fn54bWwKPHNlbGVjdCBpZD0icGFnZSIgcmVzdWx0VHlwZT0iY29tLmV4YW1wbGUuRW1wIj4KICBTRUxFQ1QgZS4qLCBkLm5hbWUgQVMgZGVwdE5hbWUKICBGUk9NIGVtcCBlIExFRlQgSk9JTiBkZXB0IGQgT04gZS5kZXB0X2lkID0gZC5pZAogIDx3aGVyZT4KICAgIDxpZiB0ZXN0PSJuYW1lICE9IG51bGwgYW5kIG5hbWUgIT0gJyciPgogICAgICBlLm5hbWUgTElLRSBDT05DQVQoJyUnLCAje25hbWV9LCAnJScpCiAgICA8L2lmPgogICAgPGlmIHRlc3Q9ImdlbmRlciAhPSBudWxsIj5BTkQgZS5nZW5kZXIgPSAje2dlbmRlcn08L2lmPgogICAgPGlmIHRlc3Q9ImpvYiAhPSBudWxsIj5BTkQgZS5qb2IgPSAje2pvYn08L2lmPgogIDwvd2hlcmU+CiAgT1JERVIgQlkgZS51cGRhdGVfdGltZSBERVNDCjwvc2VsZWN0Pgp+fn4KCiMjIyAyLjMg5o6l5Y+j5qC85byPCgp+fn50ZXh0CkdFVCAvZW1wcz9wYWdlPTEmcGFnZVNpemU9MTAmbmFtZT3lvKAmZ2VuZGVyPTEmam9iPTIKfn5+Cgp+fn5qc29uCnsKICAiY29kZSI6IDEsCiAgIm1zZyI6ICJzdWNjZXNzIiwKICAiZGF0YSI6IHsKICAgICJ0b3RhbCI6IDQyLAogICAgInJvd3MiOiBbXQogIH0KfQp+fn4KCiMjIDMuIOWIhumhtea1geeoiwoKfn5+bWVybWFpZApmbG93Y2hhcnQgVEQKICAgIEFb5o6l5pS26aG156CB5ZKM5p2h5Lu2XSAtLT4gQlvmoKHpqozpu5jorqTlgLxdCiAgICBCIC0tPiBDW+afpeivouaAu+aVsF0KICAgIEIgLS0+IERb6K6h566XIG9mZnNldF0KICAgIEQgLS0+IEVb5p+l6K+i5b2T5YmN6aG1XQogICAgQyAtLT4gRlvlsIHoo4UgUGFnZVJlc3VsdF0KICAgIEUgLS0+IEYgLS0+IEdb6L+U5ZueIEpTT05dCn5+fgoK5YiG6aG15b+F6aG75aSE55CG6aG156CB44CB6aG15aSn5bCP44CB5YGP56e76YeP44CB5oC75pWw5ZKM56m657uT5p6c44CC5Yqo5oCB5p+l6K+i5LyY5YWI5L2/55SoIE15QmF0aXMg55qEIHdoZXJlIOWSjCBpZuOAggoK5YiG6aG15o6S5bqP5b+F6aG756iz5a6a77yM5L6L5aaC5L2/55SoIHVwZGF0ZV90aW1lIERFU0MsIGlkIERFU0PvvIzpgb/lhY3lkIzkuIDml7bpl7TmlbDmja7lnKjkuI3lkIzpobXkuYvpl7Tot7PliqjjgIJwYWdlU2l6ZSDopoHorr7nva7kuIrpmZDvvIzpmLLmraLkuIDmrKHmn6Xor6Lov4flpJrmlbDmja7jgIIKCiMjIDQuIOacrOeroOaAu+e7kwoKLSDlpJrooajmn6Xor6LnmoTlhbPplK7mmK/ov57mjqXmnaHku7blkozlr7nosaHmmKDlsITjgIIKLSDliIbpobXlk43lupTpgJrluLjljIXlkKsgdG90YWwg5ZKMIHJvd3PjgIIKLSDmnaHku7bkuLrnqbrml7YgU1FMIOS7jeW6lOWQiOazle+8jOS4jeiDveS6p+eUn+WkmuS9meeahCBBTkTjgIIK
+# 08 后端 Web 实战（员工管理：多表与分页）
+
+## 1. 多表关系
+
+| 关系 | 示例 | 实现 |
+|---|---|---|
+| 一对多 | 部门与员工 | 员工表保存 dept_id |
+| 一对一 | 员工与扩展信息 | 唯一键关联 |
+| 多对多 | 员工与项目 | 中间表保存两边主键 |
+
+项目中常使用逻辑外键，由应用层维护关系，减少数据库强约束对迁移的影响。
+
+## 2. 多表查询
+
+连接员工和工作经历时，一名员工可能产生多行。列表查询应只连接需要展示的表，详情查询再聚合经历，或使用 resultMap 的 collection 映射。
+
+### 2.1 员工和部门
+
+~~~sql
+SELECT e.id, e.name, d.name AS dept_name
+FROM emp e
+LEFT JOIN dept d ON e.dept_id = d.id;
+~~~
+
+### 2.2 条件分页 Mapper
+
+~~~xml
+<select id="page" resultType="com.example.Emp">
+  SELECT e.*, d.name AS deptName
+  FROM emp e LEFT JOIN dept d ON e.dept_id = d.id
+  <where>
+    <if test="name != null and name != ''">
+      e.name LIKE CONCAT('%', #{name}, '%')
+    </if>
+    <if test="gender != null">AND e.gender = #{gender}</if>
+    <if test="job != null">AND e.job = #{job}</if>
+  </where>
+  ORDER BY e.update_time DESC
+</select>
+~~~
+
+### 2.3 接口格式
+
+~~~text
+GET /emps?page=1&pageSize=10&name=张&gender=1&job=2
+~~~
+
+~~~json
+{
+  "code": 1,
+  "msg": "success",
+  "data": {
+    "total": 42,
+    "rows": []
+  }
+}
+~~~
+
+## 3. 分页流程
+
+~~~mermaid
+flowchart TD
+    A[接收页码和条件] --> B[校验默认值]
+    B --> C[查询总数]
+    B --> D[计算 offset]
+    D --> E[查询当前页]
+    C --> F[封装 PageResult]
+    E --> F --> G[返回 JSON]
+~~~
+
+分页必须处理页码、页大小、偏移量、总数和空结果。动态查询优先使用 MyBatis 的 where 和 if。
+
+分页排序必须稳定，例如使用 update_time DESC, id DESC，避免同一时间数据在不同页之间跳动。pageSize 要设置上限，防止一次查询过多数据。
+
+## 4. 本章总结
+
+- 多表查询的关键是连接条件和对象映射。
+- 分页响应通常包含 total 和 rows。
+- 条件为空时 SQL 仍应合法，不能产生多余的 AND。

@@ -1,1 +1,75 @@
-IyAwOSDlkI7nq68gV2ViIOWunuaImO+8iOWRmOW3peeuoeeQhu+8muaWsOWinuOAgeS6i+WKoeWSjOaWh+S7tuS4iuS8oO+8iQoKIyMgMS4g5paw5aKe5ZGY5belCgojIyMgMS4xIOS4muWKoea1geeoiwoK5ZGY5bel5Z+65pys5L+h5oGv5ZKM5bel5L2c57uP5Y6G6ZyA6KaB5ZCM5pe25L+d5a2Y77yM5bGe5LqO5LiA5Liq5Lia5Yqh5pW05L2T44CCCgp+fn5tZXJtYWlkCmZsb3djaGFydCBURAogICAgQVvmjqXmlLblkZjlt6UgSlNPTl0gLS0+IEJb5Y+C5pWw5qCh6aqMXQogICAgQiAtLT4gQ1vmj5LlhaUgZW1wXQogICAgQyAtLT4gRFvlj5blvpflkZjlt6XkuLvplK5dCiAgICBEIC0tPiBFW+aJuemHj+aPkuWFpeW3peS9nOe7j+WOhl0KICAgIEUgLS0+IEZb5o+Q5Lqk5LqL5YqhXQogICAgQyAtLT585aSx6LSlfCBYW+Wbnua7ml0KICAgIEUgLS0+fOWksei0pXwgWAp+fn4KCiMjIyAxLjIg5LqL5Yqh5Luj56CBCgp+fn5qYXZhCkBUcmFuc2FjdGlvbmFsKHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQpwdWJsaWMgdm9pZCBhZGQoRW1wIGVtcCkgewogICAgZW1wTWFwcGVyLmluc2VydChlbXApOyAvLyDmj5LlhaXlkI7lm57loavkuLvplK4KICAgIGlmIChlbXAuZ2V0RXhwckxpc3QoKSAhPSBudWxsKSB7CiAgICAgICAgZXhwck1hcHBlci5pbnNlcnRCYXRjaChlbXAuZ2V0SWQoKSwgZW1wLmdldEV4cHJMaXN0KCkpOwogICAgfQp9Cn5+fgoKcm9sbGJhY2tGb3Ig5piO56Gu5ZOq5Lqb5byC5bi46Kem5Y+R5Zue5rua77ybcHJvcGFnYXRpb24g5o6n5Yi25LqL5Yqh5Lyg5pKt77yM5bi46KeBIFJFUVVJUkVEIOihqOekuuWKoOWFpeeOsOacieS6i+WKoeaIluaWsOW7uuS6i+WKoeOAggoKQFRyYW5zYWN0aW9uYWwg5bqU5pS+5ZyoIFNlcnZpY2Ug55qEIHB1YmxpYyDmlrnms5XkuIrvvIzlubbpgJrov4cgU3ByaW5nIOS7o+eQhuiwg+eUqO+8m+WQjOexu+WGhemDqOebtOaOpeiwg+eUqOWPr+iDvee7lei/h+S7o+eQhuOAguS6i+WKoeWGheS4jeimgeaJp+ihjOiAl+aXtueahOi/nOeoiyBPU1Mg5LiK5Lyg77yM6YG/5YWN6ZW/5pe26Ze05Y2g55So5pWw5o2u5bqT6L+e5o6l44CCCgojIyAyLiDmlofku7bkuIrkvKAKCiMjIyAyLjEg5pys5Zyw5a2Y5YKo56S65L6LCgp+fn5qYXZhCkBQb3N0TWFwcGluZygiL3VwbG9hZCIpCnB1YmxpYyBSZXN1bHQ8U3RyaW5nPiB1cGxvYWQoQFJlcXVlc3RQYXJhbSBNdWx0aXBhcnRGaWxlIGltYWdlKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgU3RyaW5nIGV4dCA9IEZpbGVuYW1lVXRpbHMuZ2V0RXh0ZW5zaW9uKGltYWdlLmdldE9yaWdpbmFsRmlsZW5hbWUoKSk7CiAgICBTdHJpbmcgZmlsZU5hbWUgPSBVVUlELnJhbmRvbVVVSUQoKSArICIuIiArIGV4dDsKICAgIFBhdGggdGFyZ2V0ID0gUGF0aHMuZ2V0KCJ1cGxvYWRzIiwgZmlsZU5hbWUpOwoKICAgIEZpbGVzLmNyZWF0ZURpcmVjdG9yaWVzKHRhcmdldC5nZXRQYXJlbnQoKSk7CiAgICBpbWFnZS50cmFuc2ZlclRvKHRhcmdldCk7CiAgICByZXR1cm4gUmVzdWx0LnN1Y2Nlc3MoIi91cGxvYWRzLyIgKyBmaWxlTmFtZSk7Cn0Kfn5+CgojIyMgMi4yIOWuieWFqOinhOiMgwoKLSDpmZDliLbmlofku7blpKflsI/jgIHmianlsZXlkI3lkowgTUlNRSDnsbvlnovjgIIKLSDkvb/nlKjpmo/mnLrmlofku7blkI3vvIzpgb/lhY3opobnm5blt7LmnInmlofku7bjgIIKLSDkuI3kv6Hku7vljp/lp4vmlofku7blkI3vvIzpmLLmraLot6/lvoTnqb/otorjgIIKLSDnlJ/kuqfnjq/looPkvb/nlKggT1NTIOetieWvueixoeWtmOWCqO+8jOW5tuaOp+WItuiuv+mXruadg+mZkOOAggoKU3ByaW5nIEJvb3Qg5Y+v6YCa6L+HIHNwcmluZy5zZXJ2bGV0Lm11bHRpcGFydC5tYXgtZmlsZS1zaXplIOWSjCBtYXgtcmVxdWVzdC1zaXplIOmZkOWItuS4iuS8oOWkp+Wwj+OAguS4iuS8oOaOpeWPo+W6lOmZkOWItiBDb250ZW50LVR5cGXjgIHmianlsZXlkI3jgIHmlofku7blpLTvvIzlubbogIPomZHnl4Xmr5Lmiavmj4/lkozorr/pl67mnYPpmZDjgIIKCiMjIDMuIOS6i+WKoeWbm+Wkp+eJueaApwoKfCDnibnmgKcgfCDlkKvkuYkgfAp8LS0tfC0tLXwKfCDljp/lrZDmgKcgfCDlhajpg6jmiJDlip/miJblhajpg6jlpLHotKUgfAp8IOS4gOiHtOaApyB8IOaVsOaNrua7oei2s+S4muWKoeWSjOe6puadnyB8Cnwg6ZqU56a75oCnIHwg5bm25Y+R5LqL5Yqh5LqS5LiN5Lqn55Sf6ZSZ6K+v5b2x5ZONIHwKfCDmjIHkuYXmgKcgfCDmj5DkuqTnu5Pmnpzog73lpJ/kv53lrZggfAoKIyMgNC4g5pys56ug5oC757uTCgotIOi3qOihqOWGmeWFpeW/hemhu+aUvuWcqOWQjOS4gOS6i+WKoeOAggotIOaWh+S7tuS4iuS8oOimgeagoemqjOexu+Wei+OAgeWkp+Wwj+OAgeaWh+S7tuWQjeWSjOadg+mZkOOAggotIOacrOWcsOejgeebmOmAguWQiOWtpuS5oO+8jE9TUyDmm7TpgILlkIjlpJrlrp7kvovpg6jnvbLjgIIK
+# 09 后端 Web 实战（员工管理：新增、事务和文件上传）
+
+## 1. 新增员工
+
+### 1.1 业务流程
+
+员工基本信息和工作经历需要同时保存，属于一个业务整体。
+
+~~~mermaid
+flowchart TD
+    A[接收员工 JSON] --> B[参数校验]
+    B --> C[插入 emp]
+    C --> D[取得员工主键]
+    D --> E[批量插入工作经历]
+    E --> F[提交事务]
+    C -->|失败| X[回滚]
+    E -->|失败| X
+~~~
+
+### 1.2 事务代码
+
+~~~java
+@Transactional(rollbackFor = Exception.class)
+public void add(Emp emp) {
+    empMapper.insert(emp); // 插入后回填主键
+    if (emp.getExprList() != null) {
+        exprMapper.insertBatch(emp.getId(), emp.getExprList());
+    }
+}
+~~~
+
+rollbackFor 明确哪些异常触发回滚；propagation 控制事务传播，常见 REQUIRED 表示加入现有事务或新建事务。
+
+@Transactional 应放在 Service 的 public 方法上，并通过 Spring 代理调用；同类内部直接调用可能绕过代理。事务内不要执行耗时的远程 OSS 上传，避免长时间占用数据库连接。
+
+## 2. 文件上传
+
+### 2.1 本地存储示例
+
+~~~java
+@PostMapping("/upload")
+public Result<String> upload(@RequestParam MultipartFile image) throws IOException {
+    String ext = FilenameUtils.getExtension(image.getOriginalFilename());
+    String fileName = UUID.randomUUID() + "." + ext;
+    Path target = Paths.get("uploads", fileName);
+
+    Files.createDirectories(target.getParent());
+    image.transferTo(target);
+    return Result.success("/uploads/" + fileName);
+}
+~~~
+
+### 2.2 安全规范
+
+- 限制文件大小、扩展名和 MIME 类型。
+- 使用随机文件名，避免覆盖已有文件。
+- 不信任原始文件名，防止路径穿越。
+- 生产环境使用 OSS 等对象存储，并控制访问权限。
+
+Spring Boot 可通过 spring.servlet.multipart.max-file-size 和 max-request-size 限制上传大小。上传接口应限制 Content-Type、扩展名、文件头，并考虑病毒扫描和访问权限。
+
+## 3. 事务四大特性
+
+| 特性 | 含义 |
+|---|---|
+| 原子性 | 全部成功或全部失败 |
+| 一致性 | 数据满足业务和约束 |
+| 隔离性 | 并发事务互不产生错误影响 |
+| 持久性 | 提交结果能够保存 |
+
+## 4. 本章总结
+
+- 跨表写入必须放在同一事务。
+- 文件上传要校验类型、大小、文件名和权限。
+- 本地磁盘适合学习，OSS 更适合多实例部署。

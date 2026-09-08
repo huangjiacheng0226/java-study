@@ -1,1 +1,142 @@
-IyAwMiDliY3nq68gV2ViIOW8gOWPke+8iEphdmFTY3JpcHQgKyBWdWUgKyBBamF477yJCgojIyAxLiBKYXZhU2NyaXB0IOaguOW/g+ivreazlQoKIyMjIDEuMSDlvJXlhaXmlrnlvI8KCn5+fmh0bWwKPHNjcmlwdCBzcmM9ImFwcC5qcyIgZGVmZXI+PC9zY3JpcHQ+Cn5+fgoK5aSW6YOoIEpTIOaWh+S7tuWPquWGmSBKYXZhU2NyaXB077yM5LiN6KaB5YaN5YaZIHNjcmlwdCDmoIfnrb7jgIJkZWZlciDorqnohJrmnKzlnKggSFRNTCDop6PmnpDlrozmiJDlkI7miafooYzjgIIKCiMjIyAxLjIg5Y+Y6YeP44CB57G75Z6L5ZKM5Ye95pWwCgrmjqjojZDnlKggbGV0IOWjsOaYjuWPmOmHj++8jOeUqCBjb25zdCDlo7DmmI7luLjph4/vvIzpgb/lhY3kvb/nlKggdmFy44CCCgp+fn5qYXZhc2NyaXB0CmNvbnN0IGFwaUJhc2UgPSAnL2FwaSc7CmxldCBjb3VudCA9IDA7CmNvdW50ICs9IDE7CgpmdW5jdGlvbiBzdW0oYSwgYikgewogIHJldHVybiBhICsgYjsKfQp+fn4KCuW4uOingeexu+Wei++8mnN0cmluZ+OAgW51bWJlcuOAgWJvb2xlYW7jgIF1bmRlZmluZWTjgIFudWxs77yb5pWw57uE5ZKM5a+56LGh5bGe5LqO5byV55So57G75Z6L44CCCgojIyMgMS4zIERPTSDkuI7kuovku7YKCn5+fmphdmFzY3JpcHQKY29uc3QgYnV0dG9uID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcignI2xvYWRCdG4nKTsKCmJ1dHRvbi5hZGRFdmVudExpc3RlbmVyKCdjbGljaycsICgpID0+IHsKICBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcjbWVzc2FnZScpLnRleHRDb250ZW50ID0gJ+WKoOi9veS4rS4uLic7Cn0pOwp+fn4KCuaOqOiNkOS9v+eUqCBhZGRFdmVudExpc3RlbmVy77yM5pmu6YCa5paH5pys5L2/55SoIHRleHRDb250ZW50IOabtOaWsO+8jOmBv+WFjeS4jeWPr+S/oei+k+WFpeebtOaOpeWGmeWFpSBpbm5lckhUTUzjgIIKCkJPTSDooajnpLrmtY/op4jlmajnqpflj6PjgIHlnLDlnYDlkozljoblj7LorrDlvZXnrYnlr7nosaHvvJtET00g5oqKIEhUTUwg5paH5qGj6KGo56S65Li65YaF5a2Y5Lit55qE5qCR44CC5LqL5Lu26YCa5bi457uP5Y6G5o2V6I6344CB55uu5qCH44CB5YaS5rOh5LiJ5Liq6Zi25q6177yM6ZyA6KaB5pe25Y+v5L2/55SoIGV2ZW50LnN0b3BQcm9wYWdhdGlvbigpIOmYu+atoue7p+e7reS8oOaSreOAggoKIyMgMi4gVnVlIOWfuuehgAoKIyMjIDIuMSDlk43lupTlvI/lkozmqKHmnb8KCn5+fmh0bWwKPGRpdiBpZD0iYXBwIj4KICA8aW5wdXQgdi1tb2RlbD0ia2V5d29yZCIgcGxhY2Vob2xkZXI9IuaQnOe0oumDqOmXqCI+CiAgPHVsPgogICAgPGxpIHYtZm9yPSJkZXB0IGluIGZpbHRlcmVkRGVwdHMiIDprZXk9ImRlcHQuaWQiPgogICAgICB7eyBkZXB0Lm5hbWUgfX0KICAgIDwvbGk+CiAgPC91bD4KPC9kaXY+CjxzY3JpcHQ+ClZ1ZS5jcmVhdGVBcHAoewogIGRhdGEoKSB7CiAgICByZXR1cm4gewogICAgICBrZXl3b3JkOiAnJywKICAgICAgZGVwdHM6IFt7IGlkOiAxLCBuYW1lOiAn5pWZ56CU6YOoJyB9XQogICAgfTsKICB9LAogIGNvbXB1dGVkOiB7CiAgICBmaWx0ZXJlZERlcHRzKCkgewogICAgICByZXR1cm4gdGhpcy5kZXB0cy5maWx0ZXIoZCA9PiBkLm5hbWUuaW5jbHVkZXModGhpcy5rZXl3b3JkKSk7CiAgICB9CiAgfQp9KS5tb3VudCgnI2FwcCcpOwo8L3NjcmlwdD4Kfn5+CgojIyMgMi4yIFZ1ZSDmjIfku6Tlr7nmr5QKCnwg5oyH5LukIHwg5L2c55SoIHwg56S65L6LIHwKfC0tLXwtLS18LS0tfAp8IHYtYmluZCDmiJblhpLlj7cgfCDnu5HlrprlsZ7mgKcgfCA6ZGlzYWJsZWQ9ImxvYWRpbmciIHwKfCB2LW1vZGVsIHwg6KGo5Y2V5Y+M5ZCR57uR5a6aIHwgdi1tb2RlbD0iZm9ybS5uYW1lIiB8Cnwgdi1vbiDmiJYgQCB8IOe7keWumuS6i+S7tiB8IEBjbGljaz0ic2F2ZSIgfAp8IHYtaWYgfCDliJvlu7rmiJbplIDmr4HoioLngrkgfCB2LWlmPSJ2aXNpYmxlIiB8Cnwgdi1zaG93IHwgQ1NTIOaOp+WItuaYvuekuiB8IHYtc2hvdz0idmlzaWJsZSIgfAp8IHYtZm9yIHwg5YiX6KGo5riy5p+TIHwgdi1mb3I9Iml0ZW0gaW4gbGlzdCIgfAoKdi1mb3Ig5bqU5L2/55So56iz5a6a55qEIGtlee+8jOS8mOWFiOS9v+eUqOS4muWKoeS4u+mUruOAggoKIyMgMy4gQWpheCDkuI4gQXhpb3MKCiMjIyAzLjEg5byC5q2l6K+35rGCCgp+fn5qYXZhc2NyaXB0CmFzeW5jIGZ1bmN0aW9uIGxvYWREZXB0cygpIHsKICB0cnkgewogICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaCgnL2RlcHRzJyk7CiAgICAvLyBmZXRjaCDlr7kgNDA0LzUwMCDkuI3kuIDlrproh6rliqjmipvlvILluLgKICAgIGlmICghcmVzcG9uc2Uub2spIHRocm93IG5ldyBFcnJvcignSFRUUCAnICsgcmVzcG9uc2Uuc3RhdHVzKTsKICAgIHJldHVybiBhd2FpdCByZXNwb25zZS5qc29uKCk7CiAgfSBjYXRjaCAoZXJyb3IpIHsKICAgIGNvbnNvbGUuZXJyb3IoZXJyb3IpOwogICAgcmV0dXJuIFtdOwogIH0KfQp+fn4KCiMjIyAzLjIgQXhpb3Mg5bCB6KOFCgp+fn5qYXZhc2NyaXB0CmltcG9ydCBheGlvcyBmcm9tICdheGlvcyc7Cgpjb25zdCBodHRwID0gYXhpb3MuY3JlYXRlKHsKICBiYXNlVVJMOiAnL2FwaScsCiAgdGltZW91dDogMTAwMDAKfSk7Cgphc3luYyBmdW5jdGlvbiBxdWVyeURlcHRzKCkgewogIGNvbnN0IHsgZGF0YSB9ID0gYXdhaXQgaHR0cC5nZXQoJy9kZXB0cycpOwogIHJldHVybiBkYXRhOwp9Cgphc3luYyBmdW5jdGlvbiBjcmVhdGVEZXB0KG5hbWUpIHsKICBhd2FpdCBodHRwLnBvc3QoJy9kZXB0cycsIHsgbmFtZSB9KTsKfQp+fn4KCumhueebruS4reW7uuiurue7n+S4gOmFjee9riBiYXNlVVJM44CB6LaF5pe244CB6K+35rGC5oum5oiq5Zmo44CB5ZON5bqU5oum5oiq5Zmo5ZKM6ZSZ6K+v5o+Q56S644CCCgrliY3nq6/moKHpqoznlKjkuo7ljbPml7blj43ppojvvIzkvYblkI7nq6/ku43lv4Xpobvlho3mrKHmoKHpqozjgILkvb/nlKggRmV0Y2gg5pe26KaB5qOA5p+lIHJlc3BvbnNlLm9r77yM5Zug5Li6IDQwNC81MDAg5LiN5LiA5a6a6K6pIFByb21pc2UgcmVqZWN077yb6ZW/5YiX6KGo5oiW6aG16Z2i5YiH5o2i5pe25Y+v55SoIEFib3J0Q29udHJvbGxlciDlj5bmtojov4fmnJ/or7fmsYLvvIzpgb/lhY3ml6flk43lupTopobnm5bmlrDmlbDmja7jgILot6jln5/or7fmsYLov5jkvJrlj5fliLAgQ09SUyDnrZbnlaXpmZDliLbjgIIKCiMjIDQuIOWJjeerr+W3peeoi+WMlgoKIyMjIDQuMSDnu4Tku7blkoznlJ/lkb3lkajmnJ8KCmNyZWF0ZWQvc2V0dXAg6Zi25q615YeG5aSH5pWw5o2u77yMbW91bnRlZCDpmLbmrrXorr/pl64gRE9N77yMYmVmb3JlVW5tb3VudCDpmLbmrrXmuIXnkIblrprml7blmajlkoznm5HlkKzlmajjgILnu4Tku7botJ/otKPlsIHoo4Xlj6/lpI3nlKjpobXpnaLljLrln5/jgIIKCiMjIyA0LjIgVnVlIFJvdXRlciDlkowgRWxlbWVudCBQbHVzCgpWdWUgUm91dGVyIOeuoeeQhumhtemdoui3r+eUse+8m0VsZW1lbnQgUGx1cyDmj5DkvpsgVGFibGXjgIFQYWdpbmF0aW9u44CBRGlhbG9n44CBRm9ybSDnrYnnu4Tku7bjgIIKCiMjIDUuIOacrOeroOaAu+e7kwoKLSBKYXZhU2NyaXB0IOi0n+i0o+ihjOS4uu+8jERPTSDotJ/otKPmlofmoaPmk43kvZzjgIIKLSBWdWUg5L2/55So5ZON5bqU5byP5pWw5o2u6amx5Yqo6KeG5Zu+77yMQXhpb3Mg6LSf6LSjIEhUVFAg6K+35rGC44CCCi0g57uE5Lu244CB6Lev55Sx5ZKM57uE5Lu25bqT5piv5YmN56uv5bel56iL5YyW5Z+656GA44CCCg==
+# 02 前端 Web 开发（JavaScript + Vue + Ajax）
+
+## 1. JavaScript 核心语法
+
+### 1.1 引入方式
+
+~~~html
+<script src="app.js" defer></script>
+~~~
+
+外部 JS 文件只写 JavaScript，不要再写 script 标签。defer 让脚本在 HTML 解析完成后执行。
+
+### 1.2 变量、类型和函数
+
+推荐用 let 声明变量，用 const 声明常量，避免使用 var。
+
+~~~javascript
+const apiBase = '/api';
+let count = 0;
+count += 1;
+
+function sum(a, b) {
+  return a + b;
+}
+~~~
+
+常见类型：string、number、boolean、undefined、null；数组和对象属于引用类型。
+
+### 1.3 DOM 与事件
+
+~~~javascript
+const button = document.querySelector('#loadBtn');
+
+button.addEventListener('click', () => {
+  document.querySelector('#message').textContent = '加载中...';
+});
+~~~
+
+推荐使用 addEventListener，普通文本使用 textContent 更新，避免不可信输入直接写入 innerHTML。
+
+BOM 表示浏览器窗口、地址和历史记录等对象；DOM 把 HTML 文档表示为内存中的树。事件通常经历捕获、目标、冒泡三个阶段，需要时可使用 event.stopPropagation() 阻止继续传播。
+
+## 2. Vue 基础
+
+### 2.1 响应式和模板
+
+~~~html
+<div id="app">
+  <input v-model="keyword" placeholder="搜索部门">
+  <ul>
+    <li v-for="dept in filteredDepts" :key="dept.id">
+      {{ dept.name }}
+    </li>
+  </ul>
+</div>
+<script>
+Vue.createApp({
+  data() {
+    return {
+      keyword: '',
+      depts: [{ id: 1, name: '教研部' }]
+    };
+  },
+  computed: {
+    filteredDepts() {
+      return this.depts.filter(d => d.name.includes(this.keyword));
+    }
+  }
+}).mount('#app');
+</script>
+~~~
+
+### 2.2 Vue 指令对比
+
+| 指令 | 作用 | 示例 |
+|---|---|---|
+| v-bind 或冒号 | 绑定属性 | :disabled="loading" |
+| v-model | 表单双向绑定 | v-model="form.name" |
+| v-on 或 @ | 绑定事件 | @click="save" |
+| v-if | 创建或销毁节点 | v-if="visible" |
+| v-show | CSS 控制显示 | v-show="visible" |
+| v-for | 列表渲染 | v-for="item in list" |
+
+v-for 应使用稳定的 key，优先使用业务主键。
+
+## 3. Ajax 与 Axios
+
+### 3.1 异步请求
+
+~~~javascript
+async function loadDepts() {
+  try {
+    const response = await fetch('/depts');
+    // fetch 对 404/500 不一定自动抛异常
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    return await response.json();
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
+}
+~~~
+
+### 3.2 Axios 封装
+
+~~~javascript
+import axios from 'axios';
+
+const http = axios.create({
+  baseURL: '/api',
+  timeout: 10000
+});
+
+async function queryDepts() {
+  const { data } = await http.get('/depts');
+  return data;
+}
+
+async function createDept(name) {
+  await http.post('/depts', { name });
+}
+~~~
+
+项目中建议统一配置 baseURL、超时、请求拦截器、响应拦截器和错误提示。
+
+前端校验用于即时反馈，但后端仍必须再次校验。使用 Fetch 时要检查 response.ok，因为 404/500 不一定让 Promise reject；长列表或页面切换时可用 AbortController 取消过期请求，避免旧响应覆盖新数据。跨域请求还会受到 CORS 策略限制。
+
+## 4. 前端工程化
+
+### 4.1 组件和生命周期
+
+created/setup 阶段准备数据，mounted 阶段访问 DOM，beforeUnmount 阶段清理定时器和监听器。组件负责封装可复用页面区域。
+
+### 4.2 Vue Router 和 Element Plus
+
+Vue Router 管理页面路由；Element Plus 提供 Table、Pagination、Dialog、Form 等组件。
+
+## 5. 本章总结
+
+- JavaScript 负责行为，DOM 负责文档操作。
+- Vue 使用响应式数据驱动视图，Axios 负责 HTTP 请求。
+- 组件、路由和组件库是前端工程化基础。

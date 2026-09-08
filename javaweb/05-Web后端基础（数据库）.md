@@ -1,1 +1,102 @@
-IyAwNSBXZWIg5ZCO56uv5Z+656GA77yITXlTUUwg5pWw5o2u5bqT77yJCgojIyAxLiBNeVNRTCDkuI7lhbPns7vlnovmlbDmja7lupMKCiMjIyAxLjEg5Z+65pys5qaC5b+1CgrlhbPns7vlnovmlbDmja7lupPkvb/nlKjooajjgIHooYzjgIHliJfkv53lrZjnu5PmnoTljJbmlbDmja7jgILkuLvplK7llK/kuIDmoIfor4borrDlvZXvvIznuqbmnZ/nlKjkuo7kv53or4HmlbDmja7otKjph4/jgIIKCiMjIyAxLjIg5bu65bqT5bu66KGoCgp+fn5zcWwKQ1JFQVRFIERBVEFCQVNFIElGIE5PVCBFWElTVFMgdGxpYXMgREVGQVVMVCBDSEFSQUNURVIgU0VUIHV0ZjhtYjQ7ClVTRSB0bGlhczsKCkNSRUFURSBUQUJMRSBkZXB0ICgKICBpZCBJTlQgVU5TSUdORUQgUFJJTUFSWSBLRVkgQVVUT19JTkNSRU1FTlQsCiAgbmFtZSBWQVJDSEFSKDEwKSBOT1QgTlVMTCBVTklRVUUsCiAgY3JlYXRlX3RpbWUgREFURVRJTUUsCiAgdXBkYXRlX3RpbWUgREFURVRJTUUKKTsKfn5+CgojIyAyLiBTUUwg5YiG57G7CgojIyMgMi4xIERETAoKRERMIOeuoeeQhuaVsOaNruW6k+WSjOihqOe7k+aehO+8jOWmgiBDUkVBVEXjgIFBTFRFUuOAgURST1DjgIIKCiMjIyAyLjIgRE1MCgp+fn5zcWwKSU5TRVJUIElOVE8gZGVwdChuYW1lLCBjcmVhdGVfdGltZSwgdXBkYXRlX3RpbWUpClZBTFVFUyAoJ+aVmeeglOmDqCcsIE5PVygpLCBOT1coKSk7CgpVUERBVEUgZGVwdApTRVQgbmFtZSA9ICfmioDmnK/pg6gnLCB1cGRhdGVfdGltZSA9IE5PVygpCldIRVJFIGlkID0gMTsKCkRFTEVURSBGUk9NIGRlcHQgV0hFUkUgaWQgPSAxOwp+fn4KCuabtOaWsOWSjOWIoOmZpOW/hemhu+WGmSBXSEVSReOAguaJp+ihjOeUn+S6p+aTjeS9nOWJje+8jOWFiOeUqOebuOWQjOadoeS7tuafpeivouehruiupOiMg+WbtOOAggoKIyMjIDIuMyBEUUwKCn5+fnNxbApTRUxFQ1QgaWQsIG5hbWUKRlJPTSBkZXB0CldIRVJFIG5hbWUgTElLRSBDT05DQVQoJyUnLCAn56CUJywgJyUnKQpPUkRFUiBCWSBpZCBERVNDCkxJTUlUIDAsIDEwOwp+fn4KClNRTCDluLjop4HpgLvovpHpobrluo/vvJpGUk9NL0pPSU4g4oaSIFdIRVJFIOKGkiBHUk9VUCBCWSDihpIgSEFWSU5HIOKGkiBTRUxFQ1Qg4oaSIE9SREVSIEJZIOKGkiBMSU1JVOOAggoKTlVMTCDkuI3mmK8gMCDmiJbnqbrlrZfnrKbkuLLjgILliKTmlq3nqbrlgLzopoHnlKggSVMgTlVMTC9JUyBOT1QgTlVMTO+8jOS4jeiDveWGmSA9IE5VTEzvvJtXSEVSRSDmnaHku7blj6/og73kuqfnlJ8gVFJVReOAgUZBTFNF44CBVU5LTk9XTiDkuInnp43nu5PmnpzjgILkuLvplK7lupTnqLPlrprkuJTkuI3ph43lpI3vvIxVTklRVUUg6Ziy5q2i5Lia5Yqh5a2X5q616YeN5aSN77yMTk9UIE5VTEwg5L+d6K+B5b+F5aGr77yb6K6+6K6h6KGo5pe25YeP5bCR6YeN5aSN5pWw5o2u77yM5oql6KGo5Zy65pmv5Y+v5Zyo5Y+v5o6n6IyD5Zu05YaF5Y+N6KeE6IyD5YyW44CCCgojIyAzLiDogZrlkIjlkozlpJrooajmn6Xor6IKCn5+fnNxbApTRUxFQ1Qgam9iLCBDT1VOVCgqKSBBUyB0b3RhbApGUk9NIGVtcApHUk9VUCBCWSBqb2IKSEFWSU5HIENPVU5UKCopID4gMQpPUkRFUiBCWSB0b3RhbCBERVNDOwoKU0VMRUNUIGUuaWQsIGUubmFtZSwgZC5uYW1lIEFTIGRlcHRfbmFtZQpGUk9NIGVtcCBlCkxFRlQgSk9JTiBkZXB0IGQgT04gZS5kZXB0X2lkID0gZC5pZDsKfn5+Cgp8IOexu+WeiyB8IOeJueeCuSB8IOeUqOmAlCB8CnwtLS18LS0tfC0tLXwKfCBJTk5FUiBKT0lOIHwg5Y+q5L+d55WZ5Yy56YWN6KGMIHwg5p+l6K+i5pyJ5YWz6IGU55qE5pWw5o2uIHwKfCBMRUZUIEpPSU4gfCDkv53nlZnlt6booajmiYDmnInooYwgfCDkuLvooajorrDlvZXkuI3og73kuKLlpLEgfAp8IOWtkOafpeivoiB8IOafpeivoue7k+aenOWPguS4juWkluWxgiB8IOihqOi+vuWkjeadguadoeS7tiB8CgojIyA0LiDkuovliqHlkozntKLlvJUKCiMjIyA0LjEg5LqL5YqhCgrkuovliqHlhbfmnInljp/lrZDmgKfjgIHkuIDoh7TmgKfjgIHpmpTnprvmgKflkozmjIHkuYXmgKfjgIIKCn5+fnNxbApTVEFSVCBUUkFOU0FDVElPTjsKVVBEQVRFIGFjY291bnQgU0VUIGJhbGFuY2UgPSBiYWxhbmNlIC0gMTAwIFdIRVJFIGlkID0gMTsKVVBEQVRFIGFjY291bnQgU0VUIGJhbGFuY2UgPSBiYWxhbmNlICsgMTAwIFdIRVJFIGlkID0gMjsKQ09NTUlUOwotLSDlvILluLjml7bmiafooYwgUk9MTEJBQ0sKfn5+CgojIyMgNC4yIOe0ouW8lQoK57Si5byV6YCC5ZCI57uP5bi455So5LqOIFdIRVJF44CBSk9JTuOAgU9SREVSIEJZIOeahOWIl++8jOS9huS8muWNoOepuumXtOW5tuWinuWKoOWGmeWFpeaIkOacrOOAggoK6IGU5ZCI57Si5byV6KaB6ICD6JmR5pyA5bem5Yy56YWN5Y6f5YiZ77yb5LiN6KaB5a+557Si5byV5YiX5YGa5Ye95pWw5oiW6ZqQ5byP57G75Z6L6L2s5o2i77yb5L2/55SoIEVYUExBSU4g5qOA5p+l5p+l6K+i6K6h5YiS44CCCgojIyA1LiDmnKznq6DmgLvnu5MKCi0gRERMIOeuoee7k+aehO+8jERNTCDnrqHmlbDmja7vvIxEUUwg5p+l5pWw5o2u44CCCi0g5o6M5o+h5p2h5Lu244CB5o6S5bqP44CB5YiG6aG144CB6IGa5ZCI44CB6L+e5o6l5ZKM5a2Q5p+l6K+i44CCCi0g5LqL5Yqh5L+d6K+B5pW05L2T5oCn77yM57Si5byV6ZyA6KaB5p2D6KGh6K+75YaZ5oiQ5pys44CCCg==
+# 05 Web 后端基础（MySQL 数据库）
+
+## 1. MySQL 与关系型数据库
+
+### 1.1 基本概念
+
+关系型数据库使用表、行、列保存结构化数据。主键唯一标识记录，约束用于保证数据质量。
+
+### 1.2 建库建表
+
+~~~sql
+CREATE DATABASE IF NOT EXISTS tlias DEFAULT CHARACTER SET utf8mb4;
+USE tlias;
+
+CREATE TABLE dept (
+  id INT UNSIGNED PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(10) NOT NULL UNIQUE,
+  create_time DATETIME,
+  update_time DATETIME
+);
+~~~
+
+## 2. SQL 分类
+
+### 2.1 DDL
+
+DDL 管理数据库和表结构，如 CREATE、ALTER、DROP。
+
+### 2.2 DML
+
+~~~sql
+INSERT INTO dept(name, create_time, update_time)
+VALUES ('教研部', NOW(), NOW());
+
+UPDATE dept
+SET name = '技术部', update_time = NOW()
+WHERE id = 1;
+
+DELETE FROM dept WHERE id = 1;
+~~~
+
+更新和删除必须写 WHERE。执行生产操作前，先用相同条件查询确认范围。
+
+### 2.3 DQL
+
+~~~sql
+SELECT id, name
+FROM dept
+WHERE name LIKE CONCAT('%', '研', '%')
+ORDER BY id DESC
+LIMIT 0, 10;
+~~~
+
+SQL 常见逻辑顺序：FROM/JOIN → WHERE → GROUP BY → HAVING → SELECT → ORDER BY → LIMIT。
+
+NULL 不是 0 或空字符串。判断空值要用 IS NULL/IS NOT NULL，不能写 = NULL；WHERE 条件可能产生 TRUE、FALSE、UNKNOWN 三种结果。主键应稳定且不重复，UNIQUE 防止业务字段重复，NOT NULL 保证必填；设计表时减少重复数据，报表场景可在可控范围内反规范化。
+
+## 3. 聚合和多表查询
+
+~~~sql
+SELECT job, COUNT(*) AS total
+FROM emp
+GROUP BY job
+HAVING COUNT(*) > 1
+ORDER BY total DESC;
+
+SELECT e.id, e.name, d.name AS dept_name
+FROM emp e
+LEFT JOIN dept d ON e.dept_id = d.id;
+~~~
+
+| 类型 | 特点 | 用途 |
+|---|---|---|
+| INNER JOIN | 只保留匹配行 | 查询有关联的数据 |
+| LEFT JOIN | 保留左表所有行 | 主表记录不能丢失 |
+| 子查询 | 查询结果参与外层 | 表达复杂条件 |
+
+## 4. 事务和索引
+
+### 4.1 事务
+
+事务具有原子性、一致性、隔离性和持久性。
+
+~~~sql
+START TRANSACTION;
+UPDATE account SET balance = balance - 100 WHERE id = 1;
+UPDATE account SET balance = balance + 100 WHERE id = 2;
+COMMIT;
+-- 异常时执行 ROLLBACK
+~~~
+
+### 4.2 索引
+
+索引适合经常用于 WHERE、JOIN、ORDER BY 的列，但会占空间并增加写入成本。
+
+联合索引要考虑最左匹配原则；不要对索引列做函数或隐式类型转换；使用 EXPLAIN 检查查询计划。
+
+## 5. 本章总结
+
+- DDL 管结构，DML 管数据，DQL 查数据。
+- 掌握条件、排序、分页、聚合、连接和子查询。
+- 事务保证整体性，索引需要权衡读写成本。

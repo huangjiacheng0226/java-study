@@ -1,1 +1,125 @@
-IyAwMSDliY3nq68gV2ViIOW8gOWPke+8iEhUTUwgKyBDU1PvvIkKCiMjIDEuIFdlYiDliY3nq6/kuI4gV2ViIOagh+WHhgoKIyMjIDEuMSDliY3nq6/ogYzotKMKCuWJjeerr+i0n+i0o+aKiuaWh+Wtl+OAgeWbvueJh+OAgeihqOagvOOAgeihqOWNleetieaVsOaNrue7hOe7h+aIkOeUqOaIt+WPr+ingeeahOmhtemdouOAgua1j+iniOWZqOS8muino+aekCBIVE1M44CBQ1NTIOWSjCBKYXZhU2NyaXB077yM5YaN6YCa6L+H5riy5p+T5byV5pOO5pi+56S657uT5p6c44CCCgojIyMgMS4yIOaKgOacr+WIhuW3pQoKfCDmioDmnK8gfCDkuLvopoHogYzotKMgfCDnpLrkvosgfAp8LS0tfC0tLXwtLS18CnwgSFRNTCB8IOmhtemdoue7k+aehOWSjOWGheWuuSB8IOagh+mimOOAgeihqOagvOOAgeihqOWNlSB8CnwgQ1NTIHwg6aG16Z2i5aSW6KeC5ZKM5biD5bGAIHwg6aKc6Imy44CB6Ze06Led44CBRmxleCB8CnwgSmF2YVNjcmlwdCB8IOmhtemdouihjOS4uuWSjOS6pOS6kiB8IOeCueWHu+OAgeagoemqjOOAgeW8guatpeivt+axgiB8CgojIyAyLiBIVE1MIOWfuuehgAoKIyMjIDIuMSDpobXpnaLpqqjmnrYKCn5+fmh0bWwKPCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9InpoLUNOIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT7pg6jpl6jnrqHnkIY8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgogIDxoMT7pg6jpl6jliJfooag8L2gxPgo8L2JvZHk+CjwvaHRtbD4Kfn5+CgpoZWFkIOS/neWtmOagh+mimOOAgeWFg+aVsOaNruWSjOagt+W8j++8jGJvZHkg5L+d5a2Y55So5oi35Y+v6KeB5YaF5a6544CC5qCH562+5bu66K6u5bCP5YaZ77yM5bGe5oCn5YC85L2/55So5Y+M5byV5Y+344CCCgojIyMgMi4yIOW4uOeUqOagh+etvgoKfCDlnLrmma8gfCDmoIfnrb4gfCDor7TmmI4gfAp8LS0tfC0tLXwtLS18Cnwg5qCH6aKYIHwgaDEg5YiwIGg2IHwg5pWw5a2X6LaK5bCP57qn5Yir6LaK6auYIHwKfCDmrrXokL0gfCBwIHwg6KGo56S65LiA5q615paH5a2XIHwKfCDmjaLooYwgfCBiciB8IOaPkuWFpeaNouihjCB8Cnwg6ZO+5o6lIHwgYSB8IGhyZWYg5oyH5a6a5Zyw5Z2AIHwKfCDlm77niYcgfCBpbWcgfCBzcmMg5oyH5a6a6Lev5b6E77yMYWx0IOaPkOS+m+abv+S7o+aWh+acrCB8Cnwg6KeG6aKRL+mfs+mikSB8IHZpZGVv44CBYXVkaW8gfCBjb250cm9scyDmmL7npLrmjqfku7YgfAp8IOW4g+WxgCB8IGRpduOAgXNwYW4gfCDlnZfnuqflkozooYzlhoXlrrnlmaggfAp8IOihqOagvCB8IHRhYmxl44CBdHLjgIF0aOOAgXRkIHwg6KGo5aS05L2/55SoIHRoIHwKfCDooajljZUgfCBmb3Jt44CBaW5wdXTjgIFzZWxlY3TjgIFidXR0b24gfCBuYW1lIOW9seWTjeaPkOS6pOWPguaVsCB8CgrpobXpnaLkuLvlhoXlrrnlupTkvJjlhYjkvb/nlKggaGVhZGVy44CBbmF244CBbWFpbuOAgXNlY3Rpb27jgIFmb290ZXIg562J6K+t5LmJ5qCH562+77yb6KGo5Y2V5o6n5Lu26YWN5ZCIIGxhYmVs77yM5Zu+54mH5aGr5YaZ5pyJ5oSP5LmJ55qEIGFsdO+8jOW5tuS/neivgeS6pOS6kuaOp+S7tuWPr+S7pemAmui/h+mUruebmCBUYWIg6K6/6Zeu44CCCgrooajmoLzlupTkvb/nlKggY2FwdGlvbiDor7TmmI7nlKjpgJTvvIzooajlpLTkvb/nlKggdGgg5bm26YCa6L+HIHNjb3BlIOagh+aYjuihjOWIl+WFs+ezu++8mgoKfn5+aHRtbAo8dGFibGU+CiAgPGNhcHRpb24+6YOo6Zeo5YiX6KGoPC9jYXB0aW9uPgogIDx0aGVhZD48dHI+PHRoIHNjb3BlPSJjb2wiPue8luWPtzwvdGg+PHRoIHNjb3BlPSJjb2wiPuWQjeensDwvdGg+PC90cj48L3RoZWFkPgogIDx0Ym9keT48dHI+PHRkPjE8L3RkPjx0ZD7mlZnnoJTpg6g8L3RkPjwvdHI+PC90Ym9keT4KPC90YWJsZT4Kfn5+CgojIyMgMi4zIOihqOWNleekuuS+iwoKfn5+aHRtbAo8Zm9ybSBpZD0iZGVwdEZvcm0iPgogIDxsYWJlbCBmb3I9Im5hbWUiPumDqOmXqOWQjeensDwvbGFiZWw+CiAgPGlucHV0IGlkPSJuYW1lIiBuYW1lPSJuYW1lIiBtYXhsZW5ndGg9IjEwIiByZXF1aXJlZD4KICA8c2VsZWN0IG5hbWU9InN0YXR1cyI+CiAgICA8b3B0aW9uIHZhbHVlPSIxIj7lkK/nlKg8L29wdGlvbj4KICAgIDxvcHRpb24gdmFsdWU9IjAiPuemgeeUqDwvb3B0aW9uPgogIDwvc2VsZWN0PgogIDxidXR0b24gdHlwZT0ic3VibWl0Ij7kv53lrZg8L2J1dHRvbj4KPC9mb3JtPgp+fn4KCiMjIDMuIENTUyDmoLflvI8KCiMjIyAzLjEg5LiJ56eN5byV5YWl5pa55byPCgp8IOaWueW8jyB8IOeJueeCuSB8IOW7uuiuriB8CnwtLS18LS0tfC0tLXwKfCDooYzlhoXmoLflvI8gfCDlhpnlnKggc3R5bGUg5bGe5oCn5LitIHwg5Li05pe25ryU56S6IHwKfCDlhoXpg6jmoLflvI8gfCDlhpnlnKggc3R5bGUg5qCH562+5LitIHwg5Y2V6aG16Z2i5bCP6aG555uuIHwKfCDlpJbpg6jmoLflvI8gfCBsaW5rIOW8leWFpSBDU1Mg5paH5Lu2IHwg5q2j5byP6aG555uu6aaW6YCJIHwKCiMjIyAzLjIg6YCJ5oup5ZmoCgp+fn5jc3MKKiB7IGJveC1zaXppbmc6IGJvcmRlci1ib3g7IH0KCi8qIGNsYXNzIOmAieaLqeWZqOWPr+WkjeeUqCAqLwoucHJpbWFyeSB7IGNvbG9yOiAjMTY3N2ZmOyB9CgovKiBpZCDpgInmi6nlmajpgJrluLjlj6rkvb/nlKjkuIDmrKEgKi8KI2FwcCB7IG1heC13aWR0aDogOTYwcHg7IG1hcmdpbjogMCBhdXRvOyB9Cn5+fgoK6YCJ5oup5Zmo5LyY5YWI57qn5aSn6Ie05Li677ya6KGM5YaF5qC35byPID4gaWQgPiBjbGFzcy/lsZ7mgKcv5Lyq57G7ID4g5YWD57Sg44CC6aG555uu5Lit5LyY5YWI5L2/55SoIGNsYXNz44CCCgojIyMgMy4zIOebkuWtkOaooeWei+WSjCBGbGV4Cgrnm5LlrZDnlLEgY29udGVudOOAgXBhZGRpbmfjgIFib3JkZXLjgIFtYXJnaW4g57uE5oiQ44CCYm94LXNpemluZzogYm9yZGVyLWJveCDkvJrmiorlhoXovrnot53lkozovrnmoYborqHlhaXlrr3pq5jjgIIKCn5+fmNzcwoubGF5b3V0IHsKICBkaXNwbGF5OiBmbGV4OwogIGdhcDogMTZweDsKICBhbGlnbi1pdGVtczogY2VudGVyOwogIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKfQoucGFuZWwgewogIHdpZHRoOiAzMjBweDsKICBwYWRkaW5nOiAxNnB4OwogIGJvcmRlcjogMXB4IHNvbGlkICNkZGQ7CiAgbWFyZ2luOiA4cHg7Cn0Kfn5+CgpGbGV4IOmAguWQiOS4gOe7tOW4g+WxgO+8jEdyaWQg6YCC5ZCI5LqM57u05biD5bGA44CC56e75Yqo56uv5bqU5L2/55So55u45a+55Y2V5L2N5ZKM5aqS5L2T5p+l6K+i44CCCgojIyA0LiDmnKznq6DmgLvnu5MKCi0gSFRNTCDotJ/otKPnu5PmnoTvvIxDU1Mg6LSf6LSj6KGo546w44CCCi0g6YeN54K55o6M5o+h5qCH562+44CB6Lev5b6E44CB6KGo5Y2V44CB6YCJ5oup5Zmo5ZKM55uS5a2Q5qih5Z6L44CCCi0g5q2j5byP6aG555uu5LyY5YWI5L2/55So5aSW6YOoIENTUyDlkozlj6/lpI3nlKggY2xhc3PjgIIK
+# 01 前端 Web 开发（HTML + CSS）
+
+## 1. Web 前端与 Web 标准
+
+### 1.1 前端职责
+
+前端负责把文字、图片、表格、表单等数据组织成用户可见的页面。浏览器会解析 HTML、CSS 和 JavaScript，再通过渲染引擎显示结果。
+
+### 1.2 技术分工
+
+| 技术 | 主要职责 | 示例 |
+|---|---|---|
+| HTML | 页面结构和内容 | 标题、表格、表单 |
+| CSS | 页面外观和布局 | 颜色、间距、Flex |
+| JavaScript | 页面行为和交互 | 点击、校验、异步请求 |
+
+## 2. HTML 基础
+
+### 2.1 页面骨架
+
+~~~html
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>部门管理</title>
+</head>
+<body>
+  <h1>部门列表</h1>
+</body>
+</html>
+~~~
+
+head 保存标题、元数据和样式，body 保存用户可见内容。标签建议小写，属性值使用双引号。
+
+### 2.2 常用标签
+
+| 场景 | 标签 | 说明 |
+|---|---|---|
+| 标题 | h1 到 h6 | 数字越小级别越高 |
+| 段落 | p | 表示一段文字 |
+| 换行 | br | 插入换行 |
+| 链接 | a | href 指定地址 |
+| 图片 | img | src 指定路径，alt 提供替代文本 |
+| 视频/音频 | video、audio | controls 显示控件 |
+| 布局 | div、span | 块级和行内容器 |
+| 表格 | table、tr、th、td | 表头使用 th |
+| 表单 | form、input、select、button | name 影响提交参数 |
+
+页面主内容应优先使用 header、nav、main、section、footer 等语义标签；表单控件配合 label，图片填写有意义的 alt，并保证交互控件可以通过键盘 Tab 访问。
+
+表格应使用 caption 说明用途，表头使用 th 并通过 scope 标明行列关系：
+
+~~~html
+<table>
+  <caption>部门列表</caption>
+  <thead><tr><th scope="col">编号</th><th scope="col">名称</th></tr></thead>
+  <tbody><tr><td>1</td><td>教研部</td></tr></tbody>
+</table>
+~~~
+
+### 2.3 表单示例
+
+~~~html
+<form id="deptForm">
+  <label for="name">部门名称</label>
+  <input id="name" name="name" maxlength="10" required>
+  <select name="status">
+    <option value="1">启用</option>
+    <option value="0">禁用</option>
+  </select>
+  <button type="submit">保存</button>
+</form>
+~~~
+
+## 3. CSS 样式
+
+### 3.1 三种引入方式
+
+| 方式 | 特点 | 建议 |
+|---|---|---|
+| 行内样式 | 写在 style 属性中 | 临时演示 |
+| 内部样式 | 写在 style 标签中 | 单页面小项目 |
+| 外部样式 | link 引入 CSS 文件 | 正式项目首选 |
+
+### 3.2 选择器
+
+~~~css
+* { box-sizing: border-box; }
+
+/* class 选择器可复用 */
+.primary { color: #1677ff; }
+
+/* id 选择器通常只使用一次 */
+#app { max-width: 960px; margin: 0 auto; }
+~~~
+
+选择器优先级大致为：行内样式 > id > class/属性/伪类 > 元素。项目中优先使用 class。
+
+### 3.3 盒子模型和 Flex
+
+盒子由 content、padding、border、margin 组成。box-sizing: border-box 会把内边距和边框计入宽高。
+
+~~~css
+.layout {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: space-between;
+}
+.panel {
+  width: 320px;
+  padding: 16px;
+  border: 1px solid #ddd;
+  margin: 8px;
+}
+~~~
+
+Flex 适合一维布局，Grid 适合二维布局。移动端应使用相对单位和媒体查询。
+
+## 4. 本章总结
+
+- HTML 负责结构，CSS 负责表现。
+- 重点掌握标签、路径、表单、选择器和盒子模型。
+- 正式项目优先使用外部 CSS 和可复用 class。
