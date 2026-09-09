@@ -98,6 +98,15 @@ mysqldump客户端工具用来备份数据库或在不同数据库之间进行�
 
 命令行密码建议只写 `-p`，让客户端交互式读取，不要把明文密码直接写在命令、脚本或 shell 历史中。更多选项见 [mysqldump](https://dev.mysql.com/doc/refman/8.0/en/mysqldump.html)。
 
+```mermaid
+flowchart LR
+    A[确认备份范围和磁盘空间] --> B[mysqldump 导出 SQL 文件]
+    B --> C[校验文件和备份日志]
+    C --> D[目标库创建或选择数据库]
+    D --> E[mysql 或 source 导入]
+    E --> F[抽样查询并校验数据]
+```
+
 ```Properties
 ## 目标文件filename.sql可以用绝对路径或相对路径
 mysqldump [options] db_name[tables] > filename.sql                ##备份指定数据库中的部分或全部表到目标文件

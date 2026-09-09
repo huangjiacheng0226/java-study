@@ -21,6 +21,19 @@
 ## 2.架构
 
 MySQL 5.5 版本开始，默认使用InnoDB存储引擎，它擅长事务处理，具有崩溃恢复特性，在日常开发中使用非常广泛。下面是InnoDB架构图，左侧为内存结构，右侧为磁盘结构：
+
+```mermaid
+flowchart LR
+    A[客户端 SQL] --> B[SQL 层]
+    B --> C[Buffer Pool]
+    B --> D[Redo Log Buffer]
+    C --> E[后台线程刷脏页]
+    E --> F[表空间 .ibd]
+    D --> G[Redo Log 文件]
+    C --> H[Undo Log / 回滚段]
+```
+
+Buffer Pool 缓存数据页和索引页；Redo Log 先保证已提交修改可恢复；Undo Log 支持回滚和 MVCC 旧版本读取。
 ### 2.1 内存架构
 - `adaptive_hash_index`：控制是否启用自适应哈希索引，ON表示开启，OFF表示关闭，默认值是ON；具体操作参考系统变量。
 ### 2.2 磁盘结构
@@ -65,7 +78,19 @@ DROP TABLESPACE tablespace_name;
 ## 3.事务原理
 
 特性原理分类图：
-- 原子性通过undo log日志实现，持久性通过redo log日志实现，一致性通过undo log和redo log两个日志实现，隔离性通过锁和MVCC实现
+
+```mermaid
+flowchart TD
+    A[事务 ACID] --> B[原子性]
+    A --> C[一致性]
+    A --> D[隔离性]
+    A --> E[持久性]
+    B --> F[Undo Log + 回滚]
+    C --> G[约束、事务、日志和并发控制]
+    D --> H[锁 + MVCC]
+    E --> I[Redo Log + 刷盘]
+```
+- 原子性主要依靠 Undo Log 和事务回滚，持久性主要依靠 Redo Log，隔离性依靠锁和 MVCC；一致性由约束、事务、日志和并发控制共同保证
 
 更准确地说，`redo log` 主要服务于崩溃恢复和持久性，`undo log` 主要服务于事务回滚和 MVCC 的旧版本读取；一致性是事务、约束、日志和并发控制共同作用的结果。不要把 redo log 理解成“回滚日志”。
 
@@ -77,6 +102,19 @@ DROP TABLESPACE tablespace_name;
 
 Buffer Pool在产生脏页数据的时候，会先将数据存储到 redo log buffer，再按日志持久化策略写入 redo log。系统异常（比如突然断电）后，InnoDB 可以通过 redo log 重做已经提交但尚未刷入表空间的数据变更；事务回滚主要依赖 undo log。过程如下图：
 当用户执行UPDATE或DELETE操作时，数据页会被加载到内存的Buffer Pool中进行修改，同时生成Redo Log记录并暂存于Redo Log Buffer中。事务提交时，Redo Log Buffer中的日志会先写入磁盘的Redo Log文件（ib_logfile0/1），确保事务的持久性，而数据页的修改则通过后台线程异步刷入磁盘的表空间文件（.ibd）。这种WAL机制保证了即使系统崩溃，也能通过Redo Log恢复未刷盘的数据变更，从而确保数据的一致性和持久性。
+
+```mermaid
+flowchart TD
+    A[修改 Buffer Pool 中的数据页] --> B[生成 Undo Log]
+    A --> C[写入 Redo Log Buffer]
+    C --> D{事务提交?}
+    D -->|否| E[继续执行或回滚]
+    D -->|是| F[Redo Log 持久化]
+    F --> G[提交成功]
+    A --> H[后台线程异步刷入 .ibd]
+    X[系统崩溃] --> I[重放 Redo Log]
+    I --> J[恢复已提交但未刷盘的数据]
+```
 
 
 
@@ -138,6 +176,17 @@ ReadView中包含了四个核心字段：
 |min_trx_id|最小活跃事务ID|
 |max_trx_id|预分配事务ID，当前最大事务ID+1（因为事务ID是自增的）|
 |creator_trx_id|ReadView创建者的事务ID|
+
+### MVCC 版本链读取流程
+
+```mermaid
+flowchart TD
+    A[快照读创建或复用 Read View] --> B[读取当前记录版本]
+    B --> C{版本的 trx_id 对当前 Read View 可见?}
+    C -->|是| D[返回该版本]
+    C -->|否| E[沿 roll_pointer 读取旧版本]
+    E --> B
+```
 **READ COMMITTED**
 针对事务5的两条查询语句，第一条查询语句：记录一次ReadView读视图，拿着当前事务id即DB_TRX_ID=4根据版本链数据访问规则依次判断，判断到第4条发现trx_id=4在集合m_ids中，在链表结构找到下一个DB_TRX_ID=3，再次进行判断，发现3仍然在集合m_ids中，再次在链表结构找到下一个DB_TRX_ID=2，发现满足第2条规则，所以查询到0x00002指向的记录（id: 30, age: 3, name: A30）;
 
