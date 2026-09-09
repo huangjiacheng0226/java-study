@@ -6,7 +6,7 @@
 
 | 目录 | 内容 | 状态 |
 | --- | --- | --- |
-| [linux](./linux) | Linux 基础概念、常用命令、用户权限、网络、进程和文件管理 | 学习中 |
+| [linux](./linux) | Linux 基础概念、常用命令、用户权限、网络、进程和文件管理 | 已整理 |
 | [redis](./redis) | Redis 数据类型、常用命令、持久化、缓存、Java 集成和实战 | 已整理 |
 | [javaweb](./javaweb) | HTML/CSS、JavaScript/Vue/Ajax、Maven、HTTP、Spring Boot、数据库、MyBatis 及员工管理实战 | 已整理 |
 | `java` | Java 基础语法、面向对象、集合、异常、IO 和并发 | 计划中 |
