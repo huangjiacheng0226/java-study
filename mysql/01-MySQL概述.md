@@ -23,15 +23,7 @@
 
 [MySQL 官方下载页面](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 
-Windows安装和下载MySQL参考如下资料即可：
-
-[MySQL安装.pdf](附件/MySQL安装.pdf)
-
-[MySQL卸载文档-Windows版.pdf](附件/MySQL卸载文档-Windows版.pdf)
-
-Linux系统安装MySQL软件的操作可以参考下面这个资料：
-
-[Linux软件安装-MySQL.pdf](附件/Linux软件安装-MySQL.pdf)
+Windows 和 Linux 的安装步骤请以 [MySQL 官方文档](https://dev.mysql.com/doc/refman/8.0/en/installing.html) 为准。不同发行版的包管理器命令可能不同，安装前请确认目标系统和 MySQL 版本。
 
 ### 2.2 启动与停止
 

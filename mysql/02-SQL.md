@@ -412,7 +412,20 @@ SELECT 字段列表 FROM 表名 LIMIT 起始索引,查询记录数;
 
 ### 5.8 DQL-执行顺序
 
-![a1786bfc-7cde-47e4-8a5c-3f8179317f92.png](附件/a1786bfc-7cde-47e4-8a5c-3f8179317f92.png)
+一条查询语句的书写顺序与逻辑执行顺序不同。理解下面的顺序，有助于判断别名、聚合函数以及 `WHERE` 和 `HAVING` 的可用范围。
+
+```mermaid
+flowchart TD
+    A[FROM / JOIN] --> B[WHERE]
+    B --> C[GROUP BY]
+    C --> D[HAVING]
+    D --> E[SELECT]
+    E --> F[DISTINCT]
+    F --> G[ORDER BY]
+    G --> H[LIMIT]
+```
+
+关键点：`WHERE` 在分组前过滤行，`HAVING` 在分组后过滤组；`ORDER BY` 和 `LIMIT` 发生在结果集生成之后。
 
 ## 6.数据控制语言DCL
 
